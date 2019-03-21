@@ -1,6 +1,6 @@
 # mission_coworking
 
-Cette base de données a été constituée par le CGET dans le cadre de la Mission Coworking : Territoires, Travail, Numérique.
+Cette base de données a été constituée par le CGET dans le cadre de la [Mission Coworking : Territoires, Travail, Numérique](https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires).
 Elle contient à l’heure actuelle 1512 tiers lieux et vise pour chaque tiers lieu à informer sur :
 -	la localisation (adresse, géolocalisation…) ;
 -	le site internet ;
@@ -14,14 +14,14 @@ Si vous souhaitez avoir plus d’informations sur la base de données ou sur la 
 
 
 
-Contexte de réalisation cette base de données :
+## Contexte de réalisation cette base de données :
 
-Mission confiée en février 2018 par Julien Denormandie, Ministre auprès de la ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales, à Patrick Levy-Waitz, Président de la Fondation Travailler Autrement. 
+[Mission confiée en février 2018 par Julien Denormandie, Ministre auprès de la ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales, à Patrick Levy-Waitz, Président de la Fondation Travailler Autrement](http://www.cohesion-territoires.gouv.fr/lancement-de-la-mission-coworking-afin-d-identifier-les-modeles-les-plus-adaptes-aux-territoires). 
 Celle-ci visait à établir un diagnostic et faire des propositions d’actions sur les thèmes du coworking, du numérique et des tiers lieux dans les territoires fragiles. L’objectif était d’évaluer la capacité et le potentiel des tiers lieux à porter la création d’activités dans les territoires, sur fond de déploiement du plan très haut débit et de transformation du travail (indépendants et télétravail).
 
 Au terme de 6 mois d’enquête mobilisant une très large partie de l’écosystème visé (plus de 200 entretiens, des groupes de travail, des visites terrain etc…), et selon un mode opératoire associant très étroitement des acteurs reconnus à l’élaboration de préconisations, le rapport a été officiellement remis à Julien Denormandie le 19 septembre 2018. Rapport disponible ici : https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires 
 
-Les travaux de la mission ont permis d’entamer un travail de recensement des tiers lieux. En effet, l’un des constats de la mission est qu’il n’existe pas de base de données nationales sur le sujet des tiers lieu : les chiffres variant en fonction de la source d’information et de la définition donnée aux tiers lieux. 
+Les travaux de la mission ont permis d’entamer un travail de recensement des tiers lieux. En effet, l’un des constats de la mission est qu’il n’existe pas de base de données nationale sur le sujet des tiers lieux : les chiffres variant en fonction de la source d’information et de la définition donnée aux tiers lieux. 
 
 Plutôt que de procéder à un nouvel (et impossible) recensement, la mission a fait le choix de s’appuyer sur les bases de données existantes et de procéder à leur recoupement par géolocalisation. 
 
