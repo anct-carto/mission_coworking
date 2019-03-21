@@ -99,3 +99,9 @@ nomenclatures existantes, deux types de tiers lieux :
 
 Depuis la mission, 49 tiers lieux ont été ajoutés à la base de
 données.
+
+# Réutilisation
+
+Ce jeu de données est publiée par le CGET (Commissariat général à
+l'égalité des territoires) et il est diffusé sous licence Ouverte 2.0
+(voir le fichier `LICENCE.md`).
