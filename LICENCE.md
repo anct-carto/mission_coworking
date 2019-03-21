@@ -1,7 +1,7 @@
 # LICENCE OUVERTE/ OPEN LICENCE
 Version 2.0
 
-## «REUTILISATION»DE L'«INFORMATION» SOUS CETTE LICENCE
+## «REUTILISATION» DE L'«INFORMATION» SOUS CETTE LICENCE
 
 Le «Concédant» concède au «Réutilisateur» un droit non exclusif et gratuit de libre «Réutilisation» de l'«Information» objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.
 
