@@ -1,3 +1,4 @@
+
 # mission_coworking
 
 Cette base de données a été constituée par le CGET dans le cadre de la [Mission Coworking : Territoires, Travail, Numérique](https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires).
@@ -58,3 +59,9 @@ Compte tenu de l’impossibilité de caractériser de manière fine chaque type 
 1 463 tiers lieux ont été identifiés pendant la mission et ont permis de réaliser une série de cartographies accessibles ici:
 https://cartotheque.cget.gouv.fr/cartes?filters%5Bquery%5D=&filters%5Bserie%5D%5BSerie%5D%5B3%5D=field.Serie%3Ar%22Rapport+de+la+Mission+coworking%22&current_page=1&category=&page_size=20&query=
 Depuis la mission, 49 tiers lieux ont été ajoutés à la base de données.
+
+# Réutilisation
+
+Ce jeu de données est publiée par le CGET (Commissariat général à
+l'égalité des territoires) et il est diffusé sous licence Ouverte 2.0
+(voir le fichier `LICENCE.md`).
