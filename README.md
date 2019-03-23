@@ -1,5 +1,7 @@
 # Mission Coworking
 
+## Contenu de la base de données
+
 Cette base de données a été constituée par le CGET dans le cadre de la [Mission Coworking : Territoires, Travail, Numérique](https://www.cget.gouv.fr/actualites/l-etat-s-engage-pour-soutenir-et-accelerer-la-dynamique-des-tiers-lieux-dans-les-territoires).
 
 Elle contient à l’heure actuelle 1512 tiers lieux et vise pour chaque tiers lieu à informer sur :
@@ -14,7 +16,7 @@ L’objectif de la publication de cette base de données est de permettre sa lib
 
 Si vous souhaitez avoir plus d’informations sur la base de données ou sur la Mission Coworking, contactez : remy.seillier@cget.gouv.fr
 
-## Contexte de réalisation cette base de données :
+## Contexte de réalisation
 
 [Mission confiée en février 2018 par Julien Denormandie, Ministre auprès de la ministre de la Cohésion des territoires et des Relations avec les collectivités territoriales, à Patrick Levy-Waitz, Président de la Fondation Travailler Autrement](http://www.cohesion-territoires.gouv.fr/lancement-de-la-mission-coworking-afin-d-identifier-les-modeles-les-plus-adaptes-aux-territoires).
 
@@ -27,6 +29,8 @@ Les travaux de la mission ont permis d’entamer un travail de recensement des t
 Plutôt que de procéder à un nouvel (et impossible) recensement, la mission a fait le choix de s’appuyer sur les bases de données existantes et de procéder à leur recoupement par géolocalisation.
 
 Au-delà de leur seule identification, la qualification des tiers lieux est également un enjeu majeur de recensement. Nous avons donc décidé de ne pas comptabiliser les espaces qui ne proposent que la location d’espaces de travail : cafés wifi, télé-centres, centres d'affaires, entreprises et hôtels d’entreprises.
+
+## Provenance des données
 
 Les bases de données utilisées proviennent :
 
