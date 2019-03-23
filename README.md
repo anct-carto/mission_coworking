@@ -67,6 +67,39 @@ Compte tenu de l’impossibilité de caractériser de manière fine chaque type 
 
 Depuis la mission, 49 tiers lieux ont été ajoutés à la base de données.
 
+## Explication des colonnes
+
+| Nom du champ | Description                                                                       |
+|--------------|-----------------------------------------------------------------------------------|
+| ID           | Identifiant unique du tiers lieu dans la base                                     |
+| NOM\_TL      | Nom du tiers lieux                                                                |
+| ADRESSE      | Adresse                                                                           |
+| CP           | Code Postal                                                                       |
+| COMINIT      | Commune (telle que déclarée initialement dans la base)                            |
+| INSEECOM     | Code INSEE de la commune                                                          |
+| NOMCOM       | Nom INSEE de la commune                                                           |
+| WEB          | Site internet du tiers lieu                                                       |
+| TWITTER      | Twitter du tiers lieu                                                             |
+| FACEBOOK     | Page facebook du tiers lieu                                                       |
+| TYPO         | Typologie CGET                                                                    |
+| LAT          | Latitude                                                                          |
+| LONG         | Longitude                                                                         |
+| GEOCOD       | Adresse telle que déterminée lors de la géolocalisation                           |
+| PRECISION    | Précision de la géolocalisation                                                   |
+| METRO        | 1 --> Dans le périmètre d'une des 22 métropoles 0 --> Hors périmètre métropolitan |
+| NOMMETRO     | Nom de la Métropole d'appartenance (le cas échéant)                               |
+| INSEEREG     | Code INSEE de la région                                                           |
+| NOMREG       | Nom de la région                                                                  |
+| INSEEMETRO   | Code insee de la métropole d’appartenance                                         |
+| INSEEDEP     | Code insee du département                                                         |
+| NOMCOMMETRO  | Nom de commune de la métropole                                                    |
+| POPCOM       | Population de la commune                                                          |
+| COMCLASS     | Catégorie de opulation de la commune                                              |
+| INSEE\_ZE    | Code insee de la zone d'emploi                                                    |
+| NOM\_ZE      | Nom de la zone d'emploi                                                           |
+| CLASS\_ZE    | Catégorie de population de la zone d'emploi                                       |
+| POP\_ZE      | Population de la zone d'emploi                                                    |
+
 # Réutilisation
 
 Ce jeu de données est publiée par le CGET (Commissariat général à l'égalité des territoires) et il est diffusé sous licence Ouverte 2.0 (voir le fichier `LICENCE.md`).
