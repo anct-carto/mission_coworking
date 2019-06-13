@@ -86,6 +86,8 @@ Depuis la mission, 49 tiers lieux ont été ajoutés à la base de données.
 | LONG         | Longitude                                                                         |
 | GEOCOD       | Adresse telle que déterminée lors de la géolocalisation                           |
 | PRECISION    | Précision de la géolocalisation                                                   |
+| CONTACT      | Nom du contact                                   |
+| MAIL         | Mail du contact                                  |
 | METRO        | 1 --> Dans le périmètre d'une des 22 métropoles 0 --> Hors périmètre métropolitan |
 | NOMMETRO     | Nom de la Métropole d'appartenance (le cas échéant)                               |
 | INSEEREG     | Code INSEE de la région                                                           |
